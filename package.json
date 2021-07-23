@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "imap": "^0.8.19",
+    "mailparser": "^3.2.0"
+  }
+}
