@@ -4,8 +4,8 @@ const {simpleParser} = require('mailparser');
 process.env.NODE_TLS_REJECT_UNAUTHORIZED = 0;
 
 const imapConfig = {
-  user: 'akinremiolumide96@gmail.com',
-  password: 'P@55word$',
+  user: 'your_email',
+  password: 'your_password',
   host: 'imap.gmail.com',
   port: 993,
   tls: true,
